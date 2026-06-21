@@ -1,5 +1,5 @@
-<h1 align="center">Hi there, I'm Nikhil Kumar Raushan 👋</h1>
-<h3 align="center">UI/UX Designer | Frontend Developer | CSE Student</h3>
+<h1 align="center">Hi there, I'm Nikhil 👋</h1>
+<h3 align="center">UI/UX Designer | Frontend Developer | Graphic Designer</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=20&duration=3000&pause=1000&color=4F8CFF&center=true&vCenter=true&width=600&lines=Building+clean%2C+user-friendly+interfaces;Turning+designs+into+real+products;CSE+Student+%40+B.P.+Mandal+College" alt="Typing SVG" />
