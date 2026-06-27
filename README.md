@@ -3,7 +3,7 @@
 <!-- ============================================ -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Nikhil%20Kumar%20Raushan&fontSize=50&fontAlignY=35&animation=fadeIn&fontColor=white" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Nikhil%20Kumar%20Raushan&fontSize=50&fontAlignY=35&animation=fadeIn&fontColor=white" width="100%" />
 </p>
 
 <p align="center">
