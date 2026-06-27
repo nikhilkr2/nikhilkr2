@@ -1,109 +1,179 @@
-<!-- # Header Section with Typing Animation -->
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&width=500&lines=Hi+%F0%9F%91%8B%2C+I'm+Nikhil+Kumar+Raushan;UI%2FUX+Designer+%F0%9F%8E%A8;Frontend+Developer+%F0%9F%92%BB;Graphic+Designer+%F0%9F%8E%AF;Problem+Solver+%F0%9F%94%A5" alt="Typing SVG" />
-</div>
+<!-- ============================================ -->
+<!-- 🎯 HERO SECTION WITH ANIMATED BANNER          -->
+<!-- ============================================ -->
 
-<!-- # Social Badges -->
-<div align="center">
-  
-[![GitHub followers](https://img.shields.io/github/followers/nikhilkr2?style=social)](https://github.com/nikhilkr2)
-[![GitHub stars](https://img.shields.io/github/stars/nikhilkr2?style=social)](https://github.com/nikhilkr2)
-[![GitHub visitors](https://komarev.com/ghpvc/?username=nikhilkr2&color=6C63FF&style=flat)](https://github.com/nikhilkr2)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/nkraushan8421/)
-[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/nikhilkr_2/)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=Twitter&logoColor=white)](https://x.com/NK_Raushan)
-[![Dribbble](https://img.shields.io/badge/-Dribbble-EA4C89?style=flat&logo=Dribbble&logoColor=white)](https://dribbble.com/nikhil-kumar-raushan)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=flat&logo=About.me&logoColor=white)](https://nikhilkr.me)
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Nikhil%20Kumar%20Raushan&fontSize=50&fontAlignY=35&animation=fadeIn&fontColor=white" width="100%" />
+</p>
 
-</div>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=28&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=UI%2FUX+Designer+%F0%9F%8E%A8;Frontend+Developer+%F0%9F%92%BB;Graphic+Designer+%F0%9F%8E%AF;Problem+Solver+%F0%9F%94%A5;Creative+Thinker+%F0%9F%92%A1" alt="Typing Animation" />
+</p>
+
+<!-- ============================================ -->
+<!-- 📊 SOCIAL & STATS BADGES                      -->
+<!-- ============================================ -->
+
+<p align="center">
+  <a href="https://github.com/nikhilkr2">
+    <img src="https://img.shields.io/github/followers/nikhilkr2?style=for-the-badge&logo=github&color=6C63FF&labelColor=0D1117" />
+  </a>
+  <a href="https://github.com/nikhilkr2">
+    <img src="https://img.shields.io/github/stars/nikhilkr2?style=for-the-badge&logo=github&color=6C63FF&labelColor=0D1117" />
+  </a>
+  <a href="https://github.com/nikhilkr2">
+    <img src="https://komarev.com/ghpvc/?username=nikhilkr2&style=for-the-badge&color=6C63FF&label=VISITORS&base=0" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://nikhilkr.me">
+    <img src="https://img.shields.io/badge/🌐_PORTFOLIO-000000?style=for-the-badge&logo=About.me&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/nkraushan8421/">
+    <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/nikhilkr2">
+    <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://www.instagram.com/nikhilkr_2/">
+    <img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="https://x.com/NK_Raushan">
+    <img src="https://img.shields.io/badge/TWITTER-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+  </a>
+  <a href="https://dribbble.com/nikhil-kumar-raushan">
+    <img src="https://img.shields.io/badge/DRIBBBLE-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white" />
+  </a>
+  <a href="mailto:nikhilkumarraushan@gmail.com">
+    <img src="https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
 
 ---
 
-<!-- # 👨‍💻 About Me -->
-## 👨‍💻 About Me
+<!-- ============================================ -->
+<!-- 👨‍💻 ABOUT ME SECTION                         -->
+<!-- ============================================ -->
 
-Hello! I'm **Nikhil Kumar Raushan**, a passionate **UI/UX Designer**, **Frontend Developer**, and **Graphic Designer** who loves crafting modern, user-focused digital experiences. I'm currently pursuing my **B.Tech in Computer Science & Engineering** and actively looking for internships and projects to grow my skills.
+## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Hey there! I'm Nikhil
 
-- 🎓 **B.Tech CSE** at B.P. Mandal College of Engineering (Expected May 2028)
-- 💻 **Frontend Developer Intern** at Shwastik Tech Solutions
-- 🎨 **UI/UX Designer** with a passion for beautiful, responsive designs
-- 🚀 Always learning and exploring new technologies
-- 📍 Based in Aurangabad, Bihar, India
+> *"Crafting digital experiences that blend aesthetics with functionality"*
+
+I'm a **UI/UX Designer** & **Frontend Developer** who believes in creating designs that not only look beautiful but also solve real problems. Currently pursuing my **B.Tech in Computer Science** while building products that make a difference.
+
+<table>
+  <tr>
+    <td valign="center" width="50%">
+      <ul>
+        <li>🎓 <b>B.Tech CSE</b> @ B.P. Mandal College of Engineering</li>
+        <li>💼 <b>Frontend Developer Intern</b> @ Shwastik Tech Solutions</li>
+        <li>🎨 <b>UI/UX Designer</b> passionate about user-centric design</li>
+        <li>🚀 <b>Tech Stack:</b> HTML, CSS, JavaScript, Figma, C, C++</li>
+        <li>📍 Based in <b>Aurangabad, Bihar, India</b></li>
+      </ul>
+    </td>
+    <td valign="center" width="50%">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nikhilkr2&theme=tokyonight" width="100%" />
+    </td>
+  </tr>
+</table>
 
 ---
 
-<!-- # 🎯 Career Objective -->
+<!-- ============================================ -->
+<!-- 🎯 CAREER OBJECTIVE                          -->
+<!-- ============================================ -->
+
 ## 🎯 Career Objective
 
-Seeking industry experience through internships and projects where I can leverage my skills in **UI/UX Design**, **Frontend Development**, and **Problem-Solving** to build innovative digital solutions while growing as a technology professional.
+> Seeking industry experience through **internships** and **projects** where I can leverage my skills in **UI/UX Design**, **Frontend Development**, and **Problem-Solving** to build innovative digital solutions while growing as a technology professional.
 
 ---
 
-<!-- # 🛠️ Technical Skills -->
-## 🛠️ Technical Skills
+<!-- ============================================ -->
+<!-- 🛠️ TECH STACK                               -->
+<!-- ============================================ -->
+
+## 🛠️ Tech Stack & Skills
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,html,css,js,figma,git,vscode" />
+</p>
 
 ### 💻 Programming Languages
-![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+<p align="center">
+  <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+</p>
 
 ### 🎨 Frontend Development
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![Responsive Design](https://img.shields.io/badge/Responsive_Design-4285F4?style=flat&logo=googlechrome&logoColor=white)
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Responsive_Design-4285F4?style=flat-square&logo=googlechrome&logoColor=white" />
+</p>
 
-### 🎨 UI/UX & Design
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
-![Adobe XD](https://img.shields.io/badge/Adobe_XD-FF61F6?style=flat&logo=adobexd&logoColor=white)
-![Color Theory](https://img.shields.io/badge/Color_Theory-FF6B6B?style=flat&logo=adobe&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-00C4CC?style=flat&logo=canva&logoColor=white)
-![Dribbble](https://img.shields.io/badge/Dribbble-EA4C89?style=flat&logo=dribbble&logoColor=white)
+### 🎨 UI/UX & Design Tools
+<p align="center">
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" />
+  <img src="https://img.shields.io/badge/Adobe_XD-FF61F6?style=flat-square&logo=adobexd&logoColor=white" />
+  <img src="https://img.shields.io/badge/Canva-00C4CC?style=flat-square&logo=canva&logoColor=white" />
+  <img src="https://img.shields.io/badge/Dribbble-EA4C89?style=flat-square&logo=dribbble&logoColor=white" />
+</p>
 
 ### 🛠️ Tools & Technologies
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
-![Algorithms](https://img.shields.io/badge/Algorithms-0088CC?style=flat&logo=algorithmia&logoColor=white)
+<p align="center">
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" />
+  <img src="https://img.shields.io/badge/Algorithms-0088CC?style=flat-square&logo=algorithmia&logoColor=white" />
+</p>
 
 ---
 
-<!-- # 💼 Experience -->
-## 💼 Experience
+<!-- ============================================ -->
+<!-- 💼 EXPERIENCE                                -->
+<!-- ============================================ -->
 
-### 🖥️ Frontend Developer Intern
-**Shwastik Tech Solutions Pvt. Ltd.** | *December 2025 - January 2025*
-- Developed web applications using modern frontend technologies
-- Collaborated with team members on multiple projects
-- Implemented responsive designs and interactive features
+## 💼 Professional Experience
 
-### 👨‍🏫 Core Member - Coding Club
-**B. P. Mandal College of Engineering** | *August 2024 - May 2025*
-- Collaborated with fellow students to promote programming and problem-solving
-- Organized technical events and workshops
-- Mentored junior students in coding practices
+| 🖥️ **Frontend Developer Intern** | 🏢 **Shwastik Tech Solutions Pvt. Ltd.** |
+|----------------------------------|-------------------------------------------|
+| 📅 December 2025 - January 2025 | Developed web applications using modern frontend technologies |
+| | Collaborated with team members on multiple projects |
+| | Implemented responsive designs and interactive features |
 
-### 🤝 Volunteer Developer
-**Local Non-Profit Organization** | *May 2023 - July 2024*
-- Built and maintained a website to promote community initiatives
-- Provided technical support and training for users
-- Enhanced digital presence for community engagement
+| 👨‍🏫 **Core Member - Coding Club** | 🏫 **B.P. Mandal College of Engineering** |
+|-----------------------------------|-------------------------------------------|
+| 📅 August 2024 - May 2025 | Collaborated with students to promote programming |
+| | Organized technical events and workshops |
+| | Mentored junior students in coding practices |
 
----
-
-<!-- # 🎓 Education -->
-## 🎓 Education
-
-### 🏫 B.P. Mandal College of Engineering, Bihar
-**Bachelor of Technology in Computer Science & Engineering** | *Expected May 2028*
-
-### 🏗️ Government Polytechnic Sitamarhi, Bihar
-**Diploma in Civil Engineering** | *May 2023*
+| 🤝 **Volunteer Developer** | 🌱 **Local Non-Profit Organization** |
+|-----------------------------|---------------------------------------|
+| 📅 May 2023 - July 2024 | Built and maintained website for community initiatives |
+| | Provided technical support and training for users |
+| | Enhanced digital presence for community engagement |
 
 ---
 
-<!-- # 🏆 Certifications -->
-## 🏆 Certifications
+<!-- ============================================ -->
+<!-- 🎓 EDUCATION & CERTIFICATIONS                -->
+<!-- ============================================ -->
+
+## 🎓 Education & Certifications
+
+### 📚 Education
+
+| Degree | Institution | Year |
+|--------|-------------|------|
+| **B.Tech in Computer Science & Engineering** | B.P. Mandal College of Engineering, Bihar | Expected May 2028 |
+| **Diploma in Civil Engineering** | Government Polytechnic Sitamarhi, Bihar | May 2023 |
+
+### 🏆 Certifications
 
 | Certification | Issuer | Date |
 |--------------|--------|------|
@@ -112,97 +182,142 @@ Seeking industry experience through internships and projects where I can leverag
 
 ---
 
-<!-- # 🏅 Achievements & Recognitions -->
-## 🏅 Achievements & Recognitions
+<!-- ============================================ -->
+<!-- 📊 GITHUB STATISTICS                         -->
+<!-- ============================================ -->
 
-- 🌟 **Solution Challenge Participation** - Google Developer Group on Campus (December 2025)
-- 🔒 **Cyber Threat Management Certified** - Cisco Networking Academy (February 2025)
-- 💻 **Active Coding Club Member** - B.P. Mandal College of Engineering
-
----
-
-<!-- # 📊 GitHub Analytics -->
 ## 📊 GitHub Analytics
 
-<div align="center">
+<p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nikhilkr2&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&count_private=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikhilkr2&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" />
-</div>
+</p>
 
-<div align="center">
+<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=nikhilkr2&theme=tokyonight&hide_border=true&background=0D1117" />
-</div>
+</p>
 
-<div align="center">
+<p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=nikhilkr2&theme=tokyonight&no-frame=true&row=2&column=4&margin-w=15&margin-h=15" />
-</div>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nikhilkr2&theme=tokyonight" width="90%" />
+</p>
 
 ---
 
-<!-- # 🚀 Featured Projects -->
+<!-- ============================================ -->
+<!-- 🚀 FEATURED PROJECTS                         -->
+<!-- ============================================ -->
+
 ## 🚀 Featured Projects
 
-> *I'm currently building exciting projects! Check back soon for my latest work.*
+<p align="center">
+  <img src="https://img.shields.io/badge/PROJECTS-COMING_SOON-6C63FF?style=for-the-badge&logo=github&logoColor=white" />
+</p>
 
-![Coming Soon](https://img.shields.io/badge/Projects-Coming_Soon-6C63FF?style=for-the-badge)
+> *"Building innovative solutions, one commit at a time. Stay tuned for my latest projects!"*
 
 ---
 
-<!-- # 🌱 Leadership & Involvement -->
+<!-- ============================================ -->
+<!-- 🌱 LEADERSHIP & INVOLVEMENT                  -->
+<!-- ============================================ -->
+
 ## 🌱 Leadership & Involvement
 
-- **Core Member** at B.P. Mandal College of Engineering Coding Club
-- **Volunteer Developer** for local non-profit community initiatives
-- Active participant in technical events and workshops
+- 🎯 **Core Member** - B.P. Mandal College of Engineering Coding Club
+- 🤝 **Volunteer Developer** - Local non-profit community initiatives
+- 📢 **Active Participant** - Technical events and workshops
+- 💡 **Problem Solver** - Passionate about coding challenges
 
 ---
 
-<!-- # 🌐 Connect With Me -->
-## 🌐 Connect With Me
+<!-- ============================================ -->
+<!-- 💭 INSPIRING QUOTE                           -->
+<!-- ============================================ -->
 
-<div align="center">
-  
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://nikhilkr.me)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nikhilkr2)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nkraushan8421/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/nikhilkr_2/)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/NK_Raushan)
-[![Dribbble](https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white)](https://dribbble.com/nikhil-kumar-raushan)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nikhilkumarraushan@gmail.com)
+## 💭 Quote That Inspires Me
 
-</div>
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+</p>
 
 ---
 
-<!-- # 💭 Developer Quote -->
-## 💭 Developer Quote
+<!-- ============================================ -->
+<!-- 🌟 FUN FACTS                                 -->
+<!-- ============================================ -->
 
-> *"Design is not just what it looks like and feels like. Design is how it works."*  
-> — **Steve Jobs**
-
----
-
-<!-- # 🌟 Fun Facts -->
 ## 🌟 Fun Facts About Me
 
-- 🎨 I'm passionate about UI/UX design and creating beautiful user experiences
-- 💻 I love solving coding challenges and algorithms
-- 🌱 Constantly learning new technologies and design trends
-- 🏗️ My background includes Civil Engineering (Diploma) - I build both digital and physical structures!
-- 🎯 I believe in designing for people, not just screens
-- ✨ I'm a Figma enthusiast and love prototyping
+<table>
+  <tr>
+    <td>🎨</td>
+    <td>I'm passionate about UI/UX design and creating beautiful user experiences</td>
+  </tr>
+  <tr>
+    <td>💻</td>
+    <td>I love solving coding challenges and algorithms</td>
+  </tr>
+  <tr>
+    <td>🏗️</td>
+    <td>My background includes Civil Engineering - I build both digital and physical structures!</td>
+  </tr>
+  <tr>
+    <td>🌱</td>
+    <td>Constantly learning new technologies and design trends</td>
+  </tr>
+  <tr>
+    <td>🎯</td>
+    <td>I believe in designing for people, not just screens</td>
+  </tr>
+</table>
 
 ---
 
-<!-- # Footer -->
-<div align="center">
-  
+<!-- ============================================ -->
+<!-- 🤝 CONNECT WITH ME                           -->
+<!-- ============================================ -->
+
+## 🤝 Let's Connect!
+
+<p align="center">
+  <a href="https://nikhilkr.me">
+    <img src="https://img.shields.io/badge/🌐_Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" />
+  </a>
+  <a href="https://github.com/nikhilkr2">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/nkraushan8421/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://www.instagram.com/nikhilkr_2/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="https://x.com/NK_Raushan">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+  </a>
+  <a href="https://dribbble.com/nikhil-kumar-raushan">
+    <img src="https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white" />
+  </a>
+  <a href="mailto:nikhilkumarraushan@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
 ---
-  
-**Built with ❤️ by Nikhil Kumar Raushan**
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
+<!-- ============================================ -->
+<!-- 🎨 FOOTER                                   -->
+<!-- ============================================ -->
 
-⭐️ **Thanks for visiting!** ⭐️
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer" width="100%" />
+</p>
 
-</div>
+<p align="center">
+  <b>Built with ❤️ by Nikhil Kumar Raushan</b><br />
+  <i>⭐️ Thanks for visiting! Let's build something amazing together ⭐️</i>
+</p>
