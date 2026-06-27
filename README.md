@@ -135,50 +135,100 @@ I'm a **UI/UX Designer** & **Frontend Developer** who believes in creating desig
 ---
 
 <!-- ============================================ -->
-<!-- 💼 EXPERIENCE                                -->
+<!-- 💼 PROFESSIONAL EXPERIENCE (ENHANCED)         -->
 <!-- ============================================ -->
 
 ## 💼 Professional Experience
 
-| 🖥️ **Frontend Developer Intern** | 🏢 **Shwastik Tech Solutions Pvt. Ltd.** |
-|----------------------------------|-------------------------------------------|
-| 📅 December 2025 - January 2025 | Developed web applications using modern frontend technologies |
-| | Collaborated with team members on multiple projects |
-| | Implemented responsive designs and interactive features |
-
-| 👨‍🏫 **Core Member - Coding Club** | 🏫 **B.P. Mandal College of Engineering** |
-|-----------------------------------|-------------------------------------------|
-| 📅 August 2024 - May 2025 | Collaborated with students to promote programming |
-| | Organized technical events and workshops |
-| | Mentored junior students in coding practices |
-
-| 🤝 **Volunteer Developer** | 🌱 **Local Non-Profit Organization** |
-|-----------------------------|---------------------------------------|
-| 📅 May 2023 - July 2024 | Built and maintained website for community initiatives |
-| | Provided technical support and training for users |
-| | Enhanced digital presence for community engagement |
+<table align="center" width="100%">
+  <tr>
+    <td width="100%" colspan="2">
+      <h3>🖥️ Frontend Developer Intern</h3>
+      <p><b>🏢 Shwastik Tech Solutions Pvt. Ltd.</b> &nbsp;|&nbsp; 📅 December 2025 - January 2025</p>
+      <ul>
+        <li>Developed web applications using modern frontend technologies</li>
+        <li>Collaborated with team members on multiple projects</li>
+        <li>Implemented responsive designs and interactive features</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td width="100%" colspan="2">
+      <h3>👨‍🏫 Core Member - Coding Club</h3>
+      <p><b>🏫 B.P. Mandal College of Engineering</b> &nbsp;|&nbsp; 📅 August 2024 - May 2025</p>
+      <ul>
+        <li>Collaborated with students to promote programming and problem-solving</li>
+        <li>Organized technical events and workshops</li>
+        <li>Mentored junior students in coding practices</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td width="100%" colspan="2">
+      <h3>🤝 Volunteer Developer</h3>
+      <p><b>🌱 Local Non-Profit Organization</b> &nbsp;|&nbsp; 📅 May 2023 - July 2024</p>
+      <ul>
+        <li>Built and maintained website for community initiatives</li>
+        <li>Provided technical support and training for users</li>
+        <li>Enhanced digital presence for community engagement</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
 ---
 
 <!-- ============================================ -->
-<!-- 🎓 EDUCATION & CERTIFICATIONS                -->
+<!-- 🎓 EDUCATION & CERTIFICATIONS (ENHANCED)    -->
 <!-- ============================================ -->
 
 ## 🎓 Education & Certifications
 
 ### 📚 Education
 
-| Degree | Institution | Year |
-|--------|-------------|------|
-| **B.Tech in Computer Science & Engineering** | B.P. Mandal College of Engineering, Bihar | Expected May 2028 |
-| **Diploma in Civil Engineering** | Government Polytechnic Sitamarhi, Bihar | May 2023 |
+<table align="center" width="100%" style="border-collapse: collapse;">
+  <tr style="background: #6C63FF20;">
+    <th width="5%">🎓</th>
+    <th width="40%"><b>Degree</b></th>
+    <th width="35%"><b>Institution</b></th>
+    <th width="20%"><b>Year</b></th>
+  </tr>
+  <tr>
+    <td align="center">🎓</td>
+    <td><b>B.Tech in Computer Science & Engineering</b></td>
+    <td>B.P. Mandal College of Engineering, Bihar</td>
+    <td>Expected May 2028</td>
+  </tr>
+  <tr style="background: #6C63FF10;">
+    <td align="center">🏗️</td>
+    <td><b>Diploma in Civil Engineering</b></td>
+    <td>Government Polytechnic Sitamarhi, Bihar</td>
+    <td>May 2023</td>
+  </tr>
+</table>
 
 ### 🏆 Certifications
 
-| Certification | Issuer | Date |
-|--------------|--------|------|
-| 🔒 Cyber Threat Management | Cisco Networking Academy | February 2025 |
-| 🚀 Solution Challenge Participant | Google Developer Group on Campus | December 2025 |
+<table align="center" width="100%" style="border-collapse: collapse;">
+  <tr style="background: #6C63FF20;">
+    <th width="5%">📜</th>
+    <th width="40%"><b>Certification</b></th>
+    <th width="35%"><b>Issuer</b></th>
+    <th width="20%"><b>Date</b></th>
+  </tr>
+  <tr>
+    <td align="center">🔒</td>
+    <td><b>Cyber Threat Management</b></td>
+    <td>Cisco Networking Academy</td>
+    <td>February 2025</td>
+  </tr>
+  <tr style="background: #6C63FF10;">
+    <td align="center">🚀</td>
+    <td><b>Solution Challenge Participant</b></td>
+    <td>Google Developer Group on Campus</td>
+    <td>December 2025</td>
+  </tr>
+</table>
 
 ---
 
