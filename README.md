@@ -14,6 +14,8 @@
 
 </div>
 
+---
+
 <!-- # About Me Section -->
 ## 👨‍💻 About Me
 
@@ -118,7 +120,7 @@ Seeking industry experience through internships and projects where I can leverag
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nikhilkumarraushan&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nikhilkumarraushan&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&count_private=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikhilkumarraushan&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" />
 </div>
 
@@ -127,7 +129,7 @@ Seeking industry experience through internships and projects where I can leverag
 </div>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=nikhilkumarraushan&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=15" />
+  <img src="https://github-profile-trophy.vercel.app/?username=nikhilkumarraushan&theme=tokyonight&no-frame=true&row=2&column=4&margin-w=15&margin-h=15" />
 </div>
 
 ---
