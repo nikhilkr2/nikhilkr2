@@ -1,100 +1,194 @@
-<h1 align="center">Hi there, I'm Nikhil 👋</h1>
-<h3 align="center">UI/UX Designer | Frontend Developer | Graphic Designer</h3>
+<!-- # Header Section -->
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&width=500&lines=Hi+%F0%9F%91%8B%2C+I'm+Nikhil+Kumar+Raushan;Frontend+Developer+%F0%9F%92%BB;UI%2FUX+Designer+%F0%9F%8E%A8;Problem+Solver+%F0%9F%94%A5;Tech+Enthusiast+%F0%9F%9A%80" alt="Typing SVG" />
+</div>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=20&duration=3000&pause=1000&color=4F8CFF&center=true&vCenter=true&width=600&lines=Building+clean%2C+user-friendly+interfaces;Turning+designs+into+real+products;CSE+Student+%40+B.P.+Mandal+College" alt="Typing SVG" />
-</p>
+<!-- # Badges Section -->
+<div align="center">
+  
+[![GitHub followers](https://img.shields.io/github/followers/nikhilkumarraushan?style=social)](https://github.com/nikhilkumarraushan)
+[![GitHub stars](https://img.shields.io/github/stars/nikhilkumarraushan?style=social)](https://github.com/nikhilkumarraushan)
+[![GitHub visitors](https://komarev.com/ghpvc/?username=nikhilkumarraushan&color=6C63FF&style=flat)](https://github.com/nikhilkumarraushan)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=Linkedin&logoColor=white)](https://linkedin.com/in/nikhilkumarraushan)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=flat&logo=About.me&logoColor=white)](https://nikhilkr.me)
 
-<p align="center">
-  <a href="https://nikhilkr.me"><img src="https://img.shields.io/badge/Portfolio-4F8CFF?style=for-the-badge&logo=vercel&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/nkraushan8421/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:nikhilkumarraushan2@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.instagram.com/nikhilkr_2/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-</p>
+</div>
 
----
+<!-- # About Me Section -->
+## 👨‍💻 About Me
 
-### 🚀 About Me
+Computer Science and Engineering student with a strong passion for **UI/UX Designing** and **Front-End Development**. I love building practical digital solutions that make a difference while continuously exploring new technologies and design trends.
 
-Computer Science and Engineering student with a strong interest in **UI/UX Design**, **Frontend Development**, and problem-solving. Passionate about building practical digital solutions and continuously learning new technologies — currently seeking internship and project opportunities.
-
-- 🎓 B.Tech in CSE @ **B.P. Mandal College of Engineering**, Bihar *(Expected May 2028)*
-- 🏆 Diploma in Civil Engineering @ **Government Polytechnic Sitamarhi** *(2023)*
-- 💻 Frontend Developer Intern @ **Shwastik Tech Solutions Pvt. Ltd.**
-- 🌐 Core Member, Coding Club — B.P. Mandal College of Engineering
-- 📍 Based in Aurangabad, Bihar, India
-- 📫 **nikhilkumarraushan2@gmail.com** | 📞 +91 8757842145
-
----
-
-### 💼 Experience
-
-**Intern Front-End Developer** — Shwastik Tech Solutions Pvt. Ltd.
-*Dec 2025 – Jan 2025*
-Developed web applications using modern technologies; collaborated with team members on projects.
-
-**Core Member (Coding Club)** — B.P. Mandal College of Engineering
-*Aug 2024 – May 2025*
-Promoted programming, problem-solving, and participation in technical events and workshops.
-
-**Volunteer Developer** — Local Non-Profit Organization
-*May 2023 – Jul 2024*
-Built a website to promote community initiatives; provided technical support for users.
+- 🎓 B.Tech in Computer Science & Engineering (Expected May 2028)
+- 💻 Frontend Developer Intern at Shwastik Tech Solutions
+- 🎨 Passionate about creating beautiful, responsive user experiences
+- 🚀 Always learning and contributing to open-source projects
 
 ---
 
-### 🛠️ Tech Stack
+<!-- # 🎯 Career Objective -->
+## 🎯 Career Objective
 
-**Languages**
-
-<img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black" />
-<img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" />
-<img src="https://img.shields.io/badge/Java-E76F00?style=flat-square&logo=java&logoColor=white" />
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-
-**Web Development**
-
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
-<img src="https://img.shields.io/badge/Tailwind_CSS-38BDF8?style=flat-square&logo=tailwindcss&logoColor=white" />
-
-**Design**
-
-<img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" />
-<img src="https://img.shields.io/badge/Canva-00C4CC?style=flat-square&logo=canva&logoColor=white" />
-<img src="https://img.shields.io/badge/Color_Theory-FF9A00?style=flat-square" />
-<img src="https://img.shields.io/badge/Layout_Design-9B59B6?style=flat-square" />
-
-**Tools**
-
-<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
-<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
-<img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" />
+Seeking industry experience through internships and projects where I can leverage my skills in **UI/UX Design**, **Front-End Development**, and **Problem-Solving** to build innovative digital solutions while growing as a technology professional.
 
 ---
 
-### 📜 Certifications
+<!-- # 🛠️ Technical Skills -->
+## 🛠️ Technical Skills
 
-- 🛡️ **Cyber Threat Management Course** — Cisco Networking Academy *(Feb 2025)*
-- 🚀 **Solution Challenge Participation** — Google Developer Group on Campus *(Dec 2025)*
+### 💻 Programming Languages
+![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+
+### 🎨 Frontend Development
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Responsive Design](https://img.shields.io/badge/Responsive_Design-4285F4?style=flat&logo=googlechrome&logoColor=white)
+
+### 🎨 UI/UX Design
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
+![Color Theory](https://img.shields.io/badge/Color_Theory-FF6B6B?style=flat&logo=adobe&logoColor=white)
+![Layout Design](https://img.shields.io/badge/Layout_Design-FF6B6B?style=flat&logo=adobe&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=flat&logo=canva&logoColor=white)
+
+### 🛠️ Tools & Technologies
+![Algorithms](https://img.shields.io/badge/Algorithms-0088CC?style=flat&logo=algorithmia&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
 
 ---
 
-### 📊 GitHub Stats
+<!-- # 🏆 Certifications -->
+## 🏆 Certifications
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nikhilkr2&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nikhilkr2&theme=tokyonight&hide_border=true" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikhilkr2&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
-</p>
+| Certification | Issuer | Date |
+|--------------|--------|------|
+| Cyber Threat Management | Cisco Networking Academy | February 2025 |
+| Solution Challenge Participant | Google Developer Group on Campus | December 2025 |
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=nikhilkr2&color=4f8cff&style=flat" alt="profile views" />
-</p>
+<!-- # 💼 Experience -->
+## 💼 Experience
+
+### Frontend Developer Intern
+**Shwastik Tech Solutions Pvt. Ltd.** | *December 2025 - January 2025*
+- Developed web applications using modern frontend technologies
+- Collaborated with team members on multiple projects
+- Implemented responsive designs and interactive features
+
+### Core Member - Coding Club
+**B. P. Mandal College of Engineering** | *August 2024 - May 2025*
+- Collaborated with fellow students to promote programming and problem-solving
+- Organized technical events and workshops
+- Mentored junior students in coding practices
+
+### Volunteer Developer
+**Local Non-Profit Organization** | *May 2023 - July 2024*
+- Built and maintained a website to promote community initiatives
+- Provided technical support and training for users
+- Enhanced digital presence for community engagement
+
+---
+
+<!-- # 🎓 Education -->
+## 🎓 Education
+
+### B.P. Mandal College of Engineering, Bihar
+**Bachelor of Technology in Computer Science and Engineering** | *Expected May 2028*
+
+### Government Polytechnic Sitamarhi, Bihar
+**Diploma in Civil Engineering** | *May 2023*
+
+---
+
+<!-- # 🚀 Featured Projects -->
+## 🚀 Featured Projects
+
+> *Check back soon for my latest projects! I'm currently building exciting applications and will be sharing them here.*
+
+![Coming Soon](https://img.shields.io/badge/Projects-Coming_Soon-6C63FF?style=for-the-badge)
+
+---
+
+<!-- # 📊 GitHub Analytics -->
+## 📊 GitHub Analytics
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nikhilkumarraushan&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikhilkumarraushan&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nikhilkumarraushan&theme=tokyonight&hide_border=true&background=0D1117" />
+</div>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=nikhilkumarraushan&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=15" />
+</div>
+
+---
+
+<!-- # 🏅 Achievements & Recognitions -->
+## 🏅 Achievements & Recognitions
+
+- 🌟 **Solution Challenge Participation** - Google Developer Group on Campus (December 2025)
+- 🔒 **Cyber Threat Management Certified** - Cisco Networking Academy (February 2025)
+- 💻 **Active Coding Club Member** - B.P. Mandal College of Engineering
+
+---
+
+<!-- # 🌱 Leadership & Involvement -->
+## 🌱 Leadership & Involvement
+
+- **Core Member** at B.P. Mandal College of Engineering Coding Club
+- **Volunteer Developer** for local non-profit community initiatives
+- Active participant in technical events and workshops
+
+---
+
+<!-- # 📫 Connect With Me -->
+## 📫 Connect With Me
+
+<div align="center">
+  
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://nikhilkr.me)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nikhilkumarraushan)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/nikhilkumarraushan)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nikhilkumarraushan2@gmail.com)
+
+</div>
+
+---
+
+<!-- # 💭 Developer Quote -->
+## 💭 Developer Quote
+
+> *"The only way to do great work is to love what you do."*  
+> — **Steve Jobs**
+
+---
+
+<!-- # 🌟 Fun Facts -->
+## 🌟 Fun Facts About Me
+
+- 🎨 I'm passionate about UI/UX design and creating beautiful user experiences
+- 💻 I love solving coding challenges and algorithms
+- 🌱 Constantly learning new technologies and design trends
+- 🏗️ My background includes Civil Engineering (Diploma) - I build both digital and physical structures!
+
+---
+
+<!-- # Footer -->
+<div align="center">
+  
+---
+  
+**Built with ❤️ by Nikhil Kumar Raushan**
+
+![Wave Animation](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
+
+</div>
